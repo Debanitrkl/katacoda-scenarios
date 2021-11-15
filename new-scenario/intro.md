@@ -1,1 +1,2 @@
-Welcome to the scenario
+Welcome to the scenario!
+In this scenario you will learn about how to setup kubernetes in your local system for upstream contrbution to k8s, push any changes upstream and also try out some of the tests, which are used to update/bootstrap the kuberentes source code after any changes done locally.
