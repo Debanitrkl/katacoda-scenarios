@@ -2,7 +2,7 @@
     "title": "Getting Started with Kubernetes Upstream Development",
     "description": "Install Basic Tools",
     "difficulty": "beginner",
-    "time": "2 minutes",
+    "time": "10 minutes",
     "details": {
       "steps": [{
         "title": "Step 1 - Create a fork on github",
